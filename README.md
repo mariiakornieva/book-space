@@ -4,6 +4,6 @@ Tech Stack:
 - React
 - React Router
 - TailwindCSS (Styled Components ???)
+- AWS Amplify
 - GraphQL
-- Apollo
 - Jest + RTL
